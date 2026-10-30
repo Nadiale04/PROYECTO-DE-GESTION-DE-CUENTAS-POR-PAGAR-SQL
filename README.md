@@ -21,11 +21,12 @@ El análisis se basó en una base de datos relacional con las siguientes tablas 
 
 ## 🔍 Consultas Destacadas
 * **Automatización (Stored Procedures):**
--sp_PrecioPromedioPorProveedor: Calcula el precio promedio histórico de un producto específico según las compras realizadas a cada proveedor.   
-![alt text](image-1.png)
 
--sp_ConsultarFacturaPorPagar: Genera un reporte semanal de saldos pendientes filtrado por un rango de fechas de vencimiento.
- ![alt text](image-2.png)
+    -sp_PrecioPromedioPorProveedor: Calcula el precio promedio histórico de un producto específico según las compras realizadas a cada proveedor.   
+    ![alt text](image-1.png)
+
+    -sp_ConsultarFacturaPorPagar: Genera un reporte semanal de saldos pendientes filtrado por un rango de fechas de vencimiento.
+    ![alt text](image-2.png)
 
 * **Gasto total de combustible:** Cálculo del gasto total de combustible abastecido, incluyendo el cálculo del precio por galón con impuestos.
  ![alt text](image-3.png)
